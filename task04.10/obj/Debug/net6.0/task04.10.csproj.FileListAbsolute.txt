@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/bin/Debug/net6.0/task04.10
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/bin/Debug/net6.0/task04.10.deps.json
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/bin/Debug/net6.0/task04.10.runtimeconfig.json
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/bin/Debug/net6.0/task04.10.dll
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/bin/Debug/net6.0/task04.10.pdb
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.AssemblyInfo.cs
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.dll
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/refint/task04.10.dll
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.pdb
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/task04.10.genruntimeconfig.cache
+/Users/shamamaguliyeva/Projects/task04.10/task04.10/obj/Debug/net6.0/ref/task04.10.dll
